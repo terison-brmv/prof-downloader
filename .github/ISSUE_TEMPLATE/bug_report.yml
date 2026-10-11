@@ -1,0 +1,46 @@
+name: Bug report
+description: Something does not work as expected
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping! Please write in English or Russian and fill in the fields below. Reports without them are hard to reproduce.
+  - type: input
+    id: link
+    attributes:
+      label: Link you tried to download
+      description: The exact link (or the platform and kind of content, if the link is private).
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you got. The text of the error window helps a lot.
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: App version
+      description: Settings → bottom card ("Version …").
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac model
+      placeholder: macOS 26.0, MacBook Air M2
+    validations:
+      required: true
+  - type: dropdown
+    id: network
+    attributes:
+      label: Does it work with another network (phone hotspot or VPN)?
+      options: [Not tried, Yes it works, No same error]
+  - type: textarea
+    id: shot
+    attributes:
+      label: Screenshot
+      description: Drag an image here (optional).

@@ -15,6 +15,8 @@ Everything runs on your own Mac.
 
 [**Download the latest version**](../../releases/latest) · [Questions and ideas](../../issues)
 
+> **Reporting a problem or an idea?** Please use the [issue templates](../../issues/new/choose) and write in English or Russian. Reports without the link, app version and macOS version are hard to reproduce.
+
 <img src="docs/demo.gif" width="820" alt="Prof Downloader: start screen, quality, clip, carousel, history, palettes, settings">
 
 </div>
@@ -49,7 +51,7 @@ Eleven hand-made palettes, each with a light and a dark version, plus a **Custom
 
 The **Glass classic** palette uses Apple's real **Liquid Glass**, which is supported on **macOS 26 and later**. The rest of the app works on macOS 13 and newer.
 
-The interface speaks **English, Russian and Uzbek**.
+The interface speaks **English, Russian and Uzbek**, and you can switch the language at any time.
 
 ## Install
 
@@ -70,6 +72,10 @@ Save only what you have the right to save, and respect the terms of each service
 ## Feedback
 
 Found a bug or have an idea? Open an [issue](../../issues). A short description with a link and a screenshot helps the most.
+
+## Privacy
+
+No accounts, no analytics, no tracking. Read the short [privacy note](PRIVACY.md).
 
 ## Author and license
 
