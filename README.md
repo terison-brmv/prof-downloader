@@ -18,14 +18,16 @@ Everything runs on your own Mac.
 > **Reporting a problem or an idea?** Please use the [issue templates](../../issues/new/choose) and write in English or Russian. Reports without the link, app version and macOS version are hard to reproduce.
 
 <p align="center">
-  <img src="docs/screens/01-start.png" width="32%" alt="Start screen" title="Start screen">
-  <img src="docs/screens/02-options.png" width="32%" alt="Quality and format" title="Quality and format">
-  <img src="docs/screens/04-fragment.png" width="32%" alt="Download a clip" title="Download a clip">
+  <img src="docs/screens/01-start.png" width="49%" alt="Start screen" title="Start screen">
+  <img src="docs/screens/02-options.png" width="49%" alt="Quality and format" title="Quality and format">
 </p>
 <p align="center">
-  <img src="docs/screens/05-carousel.png" width="32%" alt="Instagram carousel" title="Instagram carousel">
-  <img src="docs/screens/06-history.png" width="32%" alt="History" title="History">
-  <img src="docs/screens/08-palettes.png" width="32%" alt="Palettes" title="Palettes">
+  <img src="docs/screens/04-fragment.png" width="49%" alt="Download a clip" title="Download a clip">
+  <img src="docs/screens/05-carousel.png" width="49%" alt="Instagram carousel" title="Instagram carousel">
+</p>
+<p align="center">
+  <img src="docs/screens/06-history.png" width="49%" alt="History" title="History">
+  <img src="docs/screens/08-palettes.png" width="49%" alt="Palettes" title="Palettes">
 </p>
 
 </div>
