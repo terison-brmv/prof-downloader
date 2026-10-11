@@ -14,7 +14,12 @@ You may NOT, without the prior written permission of the author:
   4. remove or alter this notice or the author's credit.
 
 The application bundles third-party open-source components (yt-dlp, FFmpeg,
-Sparkle), which remain under their own licenses.
+Sparkle), which remain under their own licenses. See THIRD-PARTY-NOTICES.md.
+
+This license terminates automatically if you breach it. Upon termination you
+must stop using the application and delete all copies. The author may release
+the application under different terms in the future; versions already released
+under this license remain governed by it.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS NOT
 LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE

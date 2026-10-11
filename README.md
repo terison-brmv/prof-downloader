@@ -90,4 +90,4 @@ No accounts, no analytics, no tracking. Read the short [privacy note](PRIVACY.md
 
 ## Author and license
 
-Made by **terison_brmv**. Free to use, all rights reserved: see [LICENSE](LICENSE). Modifying, reselling or redistributing the app without the author's permission is not allowed.
+Made by **terison_brmv**. Free to use, all rights reserved: see [LICENSE](LICENSE). Bundled open-source components: [third-party notices](THIRD-PARTY-NOTICES.md). Modifying, reselling or redistributing the app without the author's permission is not allowed.
