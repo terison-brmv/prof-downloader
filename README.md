@@ -1,5 +1,7 @@
 <div align="center">
 
+English · [Русский](README.ru.md)
+
 # Prof Downloader
 
 **Paste a link. Get the video, photo, sound or cover.**
@@ -13,9 +15,9 @@ Everything runs on your own Mac.
 ![Free](https://img.shields.io/badge/price-free-7FFF00)
 ![Languages](https://img.shields.io/badge/UI-EN%20%C2%B7%20RU%20%C2%B7%20UZ-black)
 
-<a href="https://github.com/terison-brmv/prof-downloader/releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%20%20Download%20for%20Mac-7FFF00?style=for-the-badge&logo=apple&logoColor=black&labelColor=black" height="64" alt="Download for Mac"></a>
+<h1 align="center"><a href="https://github.com/terison-brmv/prof-downloader/releases/latest/download/ProfDownloader.zip">⬇ Download</a></h1>
 
-<sub>Free · macOS 13+ · Apple silicon · [Questions and ideas](../../issues)</sub>
+<p align="center"><sub>Free · macOS 13+ · Apple silicon · <a href="../../releases/latest">all versions</a> · <a href="../../issues">Questions and ideas</a></sub></p>
 
 > **Reporting a problem or an idea?** Please use the [issue templates](../../issues/new/choose) and write in English or Russian. Reports without the link, app version and macOS version are hard to reproduce.
 
