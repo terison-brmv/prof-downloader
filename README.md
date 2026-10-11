@@ -72,9 +72,9 @@ The interface speaks **English, Russian and Uzbek**, and you can switch the lang
 
 1. Open the [latest release](../../releases/latest) and download `ProfDownloader-x.y.z.zip`.
 2. Unzip it and drag **Prof Downloader** to your Applications folder.
-3. The first time, macOS may say the app is from an unidentified developer. Right-click the app, choose **Open**, then **Open** again. (Or: System Settings → Privacy & Security → **Open Anyway**.)
+3. The first time, macOS says it cannot verify the app (it is not from the App Store). Open **System Settings → Privacy & Security**, scroll down, click **Open Anyway** next to Prof Downloader and confirm. You only need to do this once. (On macOS 15 and later, right-click → Open no longer skips this warning.)
 
-**Requirements:** a Mac with Apple silicon and macOS 13 or newer.
+**Requirements:** a Mac with Apple silicon and macOS 13 or newer (tested on macOS 26).
 
 ## How it works
 
